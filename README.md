@@ -14,7 +14,7 @@ Text classification with Tensorflow and Keras on the AG News Subset, dealing wit
 
 Regularization methods as L1-norm, L2-norm, early stopping. Tuning of hyper-parameters using model selection and Grid Search.
 
-Notebook : [HW2](https://github.com/stefanobinotto/Deep-Learning/blob/main/HW2.ipynb)
+Notebook: [HW2](https://github.com/stefanobinotto/Deep-Learning/blob/main/HW2.ipynb)
 
 ## Homework 3 - Convolutional Neural Networks
 
@@ -22,7 +22,7 @@ Development of a simple Convolutional Neural Network for image classification on
 
 Use of Tensorflow and Keras for hyper-parameters selection to obtain better models.
 
-Notebook : [HW3](https://github.com/stefanobinotto/Deep-Learning/blob/main/HW3.ipynb)
+Notebook: [HW3](https://github.com/stefanobinotto/Deep-Learning/blob/main/HW3.ipynb)
 
 ## Homework 4 - Recurrent Neural Networks & Transformer
 
@@ -30,7 +30,7 @@ Development of simples Recurrent Neural Networks for sentiment analysis using th
 
 Introduction and testing of the Transformer model and its parameters.
 
-Notebook : [HW4](https://github.com/stefanobinotto/Deep-Learning/blob/main/HW4.ipynb)
+Notebook: [HW4](https://github.com/stefanobinotto/Deep-Learning/blob/main/HW4.ipynb)
 
 ## Homework 5 - Autoencoders
 
@@ -38,7 +38,7 @@ Comparison between Single Value Decomposition and different types of Autoencoder
 
 Linear and non-Linear Autoencoders for sequences with the IMDB dataset.
 
-Notebook : [HW5](https://github.com/stefanobinotto/Deep-Learning/blob/main/HW5.ipynb)
+Notebook: [HW5](https://github.com/stefanobinotto/Deep-Learning/blob/main/HW5.ipynb)
 
 ## Homework 6 - Variational Autoencoders
 
@@ -46,4 +46,4 @@ Development of Variational Autoencoders with the MNIST Dataset.
 
 Ad-Hoc layer and custom training step exploration.
 
-Notebook : [HW6](https://github.com/stefanobinotto/Deep-Learning/blob/main/HW6.ipynb)
+Notebook: [HW6](https://github.com/stefanobinotto/Deep-Learning/blob/main/HW6.ipynb)
