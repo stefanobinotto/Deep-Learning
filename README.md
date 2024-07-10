@@ -1,5 +1,7 @@
 # Deep Learning course homeworks
-This repo contains my submitted and evaluated homeworks for the Deep Learning course at Unipd 2021/22.
+This repo contains my submitted and evaluated homeworks for the Deep Learning course at UniPD - DEI 2021/22.
+
+.
 
 ## Homework 1 - From Perceptron to DNN
 Implementation of the backpropagation algorithm of the perceptron and a two-layer network, with sigmoid and mean squared error.
