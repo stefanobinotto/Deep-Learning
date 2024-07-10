@@ -1,4 +1,4 @@
-# DeepLearning Homeworks
+# Deep Learning course homeworks
 This repo contains my submitted homeworks for the Deep Learning course at Unipd 2021/22.
 
 ## Homework 1 - From Perceptron to DNN
